@@ -1,0 +1,79 @@
+
+.fa-star{
+    color: orange;
+
+}
+
+.container{
+    
+    margin: 0;
+}
+.purch{
+    background-color:lightgrey;
+    padding-bottom: 0;
+
+    
+}
+
+.hdr{
+    margin-top: 20px;
+}
+.comment{
+    margin-top: 40px;
+    margin-bottom: 10px;
+
+}
+.btn{
+    margin-top: 20px;
+    background-color: lightgray;
+}
+.col-4{
+    background-color: lightgray;
+    margin-top: 20px;
+    text-wrap: wrap;
+    padding-top: 5px;
+}
+.col{
+    margin-right: 0px;
+    padding: 5px;;
+
+}
+
+.col-sm-6{
+    padding-left:30px;
+}
+.col-sm{
+    padding-left:20px;
+}
+.exp{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.rate{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.satis{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.clr{
+    background-color: white;
+}
+.clr1{
+    background-color: white;
+  
+}
+.container-fluid{
+    padding: 1%;
+}
+
+
+  
+  
+
+
+
+
+
